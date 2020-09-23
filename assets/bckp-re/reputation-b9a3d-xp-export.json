@@ -1,0 +1,135 @@
+{
+  "id" : [ {
+    "NEGATIVE" : "Thug Life",
+    "POSITIVE" : "Constable",
+    "xpMax" : {
+      "double" : "No",
+      "value" : 10
+    }
+  }, {
+    "NEGATIVE" : "Bandit",
+    "POSITIVE" : "Lawmen",
+    "xpMax" : {
+      "double" : "Yes",
+      "value" : 100
+    }
+  }, {
+    "NEGATIVE" : "Villain",
+    "POSITIVE" : "Vigilante",
+    "xpMax" : {
+      "double" : "No",
+      "value" : 500
+    }
+  }, {
+    "NEGATIVE" : "Assassin",
+    "POSITIVE" : "Paragon",
+    "xpMax" : {
+      "double" : "No",
+      "value" : 1000
+    }
+  }, {
+    "NEGATIVE" : "Killer",
+    "POSITIVE" : "Hero",
+    "xpMax" : {
+      "double" : "Yes",
+      "value" : 5000
+    }
+  }, {
+    "NEGATIVE" : "Reckless",
+    "POSITIVE" : "Merciful",
+    "xpMax" : {
+      "double" : "No",
+      "value" : 10000
+    }
+  }, {
+    "NEGATIVE" : "Monster",
+    "POSITIVE" : "Oracle",
+    "xpMax" : {
+      "double" : "No",
+      "value" : 15000
+    }
+  }, {
+    "NEGATIVE" : "Ragnarok",
+    "POSITIVE" : "Apostle",
+    "xpMax" : {
+      "double" : "No",
+      "value" : 40000
+    }
+  }, {
+    "NEGATIVE" : "Undying",
+    "POSITIVE" : "Clergyman",
+    "xpMax" : {
+      "double" : "No",
+      "value" : 55000
+    }
+  }, {
+    "NEGATIVE" : "War Chief",
+    "POSITIVE" : "Templar",
+    "xpMax" : {
+      "double" : "No",
+      "value" : 70000
+    }
+  }, {
+    "NEGATIVE" : "Demon",
+    "POSITIVE" : "Archpaladin",
+    "xpMax" : {
+      "double" : "No",
+      "value" : 85000
+    }
+  }, {
+    "NEGATIVE" : "Evil",
+    "POSITIVE" : "Emil",
+    "xpMax" : {
+      "double" : "No",
+      "value" : 1000000
+    }
+  }, {
+    "NEGATIVE" : "Arsonist",
+    "POSITIVE" : "Lord",
+    "xpMax" : {
+      "double" : "No",
+      "value" : 115000
+    }
+  }, {
+    "NEGATIVE" : "Bloodthisty",
+    "POSITIVE" : "Duke",
+    "xpMax" : {
+      "double" : "No",
+      "value" : 130000
+    }
+  }, {
+    "NEGATIVE" : "Slaughterer",
+    "POSITIVE" : "Emperor",
+    "xpMax" : {
+      "double" : "No",
+      "value" : 150000
+    }
+  }, {
+    "NEGATIVE" : "Kingslayer",
+    "POSITIVE" : "Vizier",
+    "xpMax" : {
+      "double" : "No",
+      "value" : 160000
+    }
+  }, {
+    "NEGATIVE" : "Warbringer",
+    "POSITIVE" : "Prince Heir",
+    "xpMax" : {
+      "double" : "No",
+      "value" : 180000
+    }
+  }, {
+    "NEGATIVE" : "Tyrant",
+    "POSITIVE" : "Inquisitor",
+    "xpMax" : {
+      "double" : "No",
+      "value" : 500000
+    }
+  }, {
+    "NEGATIVE" : "IMORTAL DARK",
+    "POSITIVE" : "IMORTAL LIGHT",
+    "xpMax" : {
+      "value" : 1000000
+    }
+  } ]
+}
