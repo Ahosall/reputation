@@ -146,4 +146,4 @@ client.on('error', (err) => {
   console.log('error', err)
 })
 
-client.login('NzIzMTk5MjgxMDE1Njg1MTgw.XuuJ0A.ocFCGtgfZwc3L1T9eeEYgHIGwC0')
+client.login('process.env.TOKEN');
